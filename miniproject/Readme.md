@@ -27,11 +27,3 @@ This project contains two main components:
 - **Persistent storage** in `todos.json`.
 
 ---
-
-## 🛠 Installation
-
-Clone the repository and navigate into the project folder:
-
-```bash
-git clone https://github.com/username/student-todo-manager.git
-cd student-todo-manager
