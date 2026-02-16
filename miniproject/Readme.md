@@ -33,3 +33,5 @@ This project contains two main components:
 Clone the repository and navigate into the project folder:
 
 ```bash
+git clone https://github.com/username/student-todo-manager.git
+cd student-todo-manager
